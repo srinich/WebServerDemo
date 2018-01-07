@@ -11,4 +11,4 @@ Folder "executablefiles" contains te following files:
 Pre-Requisites:  Java is installed and environment various properly configured.
 
 * To run the application on windows machine, execute file Run_WebServer.bat from command line
-* To run the application on Linux machine, execute file RUn_WebServer.sh
+* To run the application on Linux machine, execute file Run_WebServer.sh
