@@ -1,1 +1,1 @@
-java -cp WebServer.jar WebServer.jar ws.ThreadPooledServer
+java -cp WebServer.jar ws.ThreadPooledServer
