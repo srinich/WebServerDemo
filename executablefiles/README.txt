@@ -1,4 +1,8 @@
-After extracting the zip archive, place the following files in the same directory:
+Instructions to run the project locally:
+
+Download the project from link : https://github.com/srinich/WebServerDemo/archive/master.zip
+
+Folder "executablefiles" contains te following files:
 
 1. WebServer.jar
 2. Run_WebServer.bat
